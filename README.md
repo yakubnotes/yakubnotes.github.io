@@ -1,6 +1,6 @@
-# Yakub Notes
+# Notes
 a personal site, blog, project documentation, or portfolio.
-Selamat datang di **Yakub Notes** — ruang catatan saya tentang teknologi, kuliah, dan berbagai ide.
+Selamat datang di **Yakub Notes** — catatan saya tentang teknologi, kuliah, ngaji, dan berbagai ide.
 
 ---
 
@@ -9,34 +9,35 @@ Halo, saya **Yakub**, seorang **IT Governance Specialist** dan juga **dosen**. S
 
 ---
 
-## Tentang Website Ini
-Website ini berisi:
-- **Artikel**: Tulisan saya tentang teknologi, governance, dan topik menarik lainnya.
-- **Proyek**: Beberapa project yang saya kerjakan.
-- **Kuliah**: Materi kuliah yang saya ajarkan.
-- **Ngaji**: Materi kuliah yang saya ajarkan.
-- **Catatan**: Ide-ide dan referensi yang saya kumpulkan.
+## Tulisan tentang Islam
+- 3 Landasan Utama
+- Bismillah
 
 ---
 
-## Artikel Terbaru
-- articles/it-governance.md
-- articles/risk-management.md
+## Tulisan tentang IS / IT
+- IT Governance
+- IoT
+
+---
+
+## Tulisan tentang Kampus
+- SPMI
+- OBE
 
 ---
 
 ## Proyek
-- projects/audit-system.md
-- [Dashboard Governance](projects/governance-dashboard.md)
-
-s/intro-it-governance.md
-- lectures/risk-management.md
+- ITSM Implementation Project
+- ITAM Implementation Project
+- ITOM Implementation Project
+- IT Rules Development Project
 
 ---
 
 ## Kontak
 - **Email**: yakubmind@gmail.com
-- **LinkedIn**: https://linkedin.com/in/yakub-](https://www.linkedin.com/in/yakub-muhammad/
+- **LinkedIn**:https://www.linkedin.com/in/yakub-muhammad/
 
 ---
 
