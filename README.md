@@ -7,7 +7,7 @@ Selamat datang di **Yakub Notes** — catatan saya tentang teknologi, kuliah, ng
 ## Tentang Saya
 Halo, saya **Yakub**, seorang **IT Governance Specialist** dan juga **dosen**. Saya tertarik pada tata kelola TI, keamanan informasi, dan pengembangan teknologi, serta **ngaji**. Website ini saya buat untuk mendokumentasikan catatan, artikel, dan proyek saya.
 
-My Mind(My_Mind.md)
+[My Mind](My_Mind.md)
 
 ---
 
